@@ -1,0 +1,29 @@
+{
+  "name": "pell",
+  "description": "The simplest and smallest WYSIWYG text editor for web, with no dependencies",
+  "main": [
+    "pell.js",
+    "pell.css"
+  ],
+  "moduleType": "globals",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "keywords": [
+    "text editor",
+    "editor",
+    "rich text",
+    "wysiwyg",
+    "contenteditable"
+  ],
+  "authors": [
+    "Jared Reich <jaredreich@gmail.com>"
+  ],
+  "homepage": "https://jaredreich.com/pell",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredreich/pell.git"
+  }
+}
